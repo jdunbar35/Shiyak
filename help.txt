@@ -1,0 +1,19 @@
+To select a start airport, click and type in the text box next to "depart".
+Please type the exact name of the airport into the dialogue box.
+You may also choose to click on the desired airport directly on the map.
+After you have selected a start airport, do the same for a finish airport.
+
+You may use the button with opposing arrows to swap your selections.
+If you would like to remove your selections, use backspace to clear the latest field.
+
+Then press enter/return or the "search" button to find the cost-minimizing path.
+You will be presented with the total cost of the flight as well as the route drawn on the map.
+Each flight will be labeled with its individual cost.
+Hover over airports to see their names.
+To leave this screen, use backspace or the back button provided.
+
+In order to change your view, click on the image in the lower-right corner.
+This will present you with a zoomed-in picture of the northeast.
+Procedure is the same for switch back to standard view.
+
+Happy flight-finding!
